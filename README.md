@@ -23,10 +23,10 @@ With hands-on experience in building, dissecting, and defending against malware,
 - **Programming:** Python, Bash, C, x86 Assembly
 - **Malware Analysis:** IDA Pro, Ghidra, x64dbg, Cuckoo Sandbox, PEStudio
 - **Reverse Engineering:** Disassembly, deobfuscation, unpacking
-- **Offensive Security:** Metasploit, Cobalt Strike, custom payload development, social engineering simulation, penetration testing (web, network, AD)
-- **Defensive Security:** SIEM (Splunk, ELK), EDR solutions, packet analysis, firewall configuration, network monitoring, incident response playbooks
+- **Offensive Security:** Metasploit, custom payload development, social engineering simulation, penetration testing (web, network, AD)
+- **SOC Analysis:** SIEM (Splunk, ELK), EDR solutions, packet analysis, firewall configuration, network monitoring, incident response playbooks
 - **Security Tools:** Wireshark, Burp Suite, Nmap, YARA, Sysinternals Suite
-
+- **Cloud:** AWS, Azure
 ---
 
 ### 📜 Certifications
