@@ -49,9 +49,9 @@ With hands-on experience in building, dissecting, and defending against malware,
 
 ### 🚀 Let's Connect
 
-- [TryHackMe](https://tryhackme.com/p/BiLLY-J03l)
-- [Hack The Box](https://app.hackthebox.com/profile/BiLLY-J03l)
-- [LinkedIn](#) *(update link!)*
+- [TryHackMe](https://tryhackme.com/p/billyJ03l)
+- [picoCTF](https://play.picoctf.org/users/Billy_J03l)
+- [LinkedIn](www.linkedin.com/in/amer-ahmed-84a98b259)
 
 ---
 
@@ -59,6 +59,4 @@ With hands-on experience in building, dissecting, and defending against malware,
 
 ![BiLLY-J03l's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiLLY-J03l&show_icons=true&hide_title=true&theme=radical)
 
----
 
-> "The quieter you become, the more you are able to hear." – Rumi
