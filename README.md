@@ -12,7 +12,7 @@ I'm a passionate cybersecurity engineer with a strong foundation in:
 - **Malware Analysis:** Static & dynamic malware analysis, unpacking, and behavioral analysis
 - **Network Security & Threat Analysis**
 - **Offensive Security & Red Teaming**
-- **Defensive Security:** Incident response, SIEM monitoring, threat hunting, and mitigation
+- **SOC Analysis:** Incident response, SIEM monitoring, threat hunting, and mitigation
 
 With hands-on experience in building, dissecting, and defending against malware, I thrive on solving complex security challenges and staying ahead of evolving threats.
 
