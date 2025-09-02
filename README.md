@@ -32,6 +32,9 @@ With hands-on experience in building, dissecting, and defending against malware,
 ### 📜 Certifications
 
 - **CCNA Certified**
+- **CEH Certified**
+- **FCF Certified**
+- **FCA Certified**
 - **TryHackMe:** Multiple cybersecurity paths & challenges conquered
 - **Hack The Box:** Active participant & certificate holder
 
