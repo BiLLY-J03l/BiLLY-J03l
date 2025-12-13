@@ -8,8 +8,8 @@
 
 I'm a passionate cybersecurity engineer with a strong foundation in:
 
-- **Malware Development & Reverse Engineering**
-- **Malware Analysis:** Static & dynamic malware analysis, unpacking, and behavioral analysis
+- **Malware Development**
+- **Malware Analysis & Reverse Engineering:** Static & dynamic malware analysis, unpacking, and behavioral analysis
 - **Network Security & Threat Analysis**
 - **Offensive Security & Red Teaming**
 - **SOC Analysis:** Incident response, SIEM monitoring, threat hunting, and mitigation
