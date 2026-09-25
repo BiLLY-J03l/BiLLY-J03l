@@ -54,7 +54,7 @@ With hands-on experience in building, dissecting, and defending against malware,
 
 - [TryHackMe](https://tryhackme.com/p/billyJ03l)
 - [picoCTF](https://play.picoctf.org/users/Billy_J03l)
-- [LinkedIn](www.linkedin.com/in/amer-ahmed-84a98b259)
+- [LinkedIn](https://www.linkedin.com/in/amer-ahmed-84a98b259)
 
 ---
 
