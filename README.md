@@ -60,6 +60,6 @@ With hands-on experience in building, dissecting, and defending against malware,
 
 ### 📊 GitHub Stats
 
-[BiLLY-J03l's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiLLY-J03l)](https://github.com/BiLLY-J03l/github-readme-stats)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=BiLLY-J03l)
 
 
